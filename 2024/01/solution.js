@@ -1,3 +1,5 @@
+// Run the script with `node solution.js`
+
 const leftSide = [];
 const rightSide = [];
 
